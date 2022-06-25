@@ -1,7 +1,7 @@
 ![Masterhead](https://cdn.dribbble.com/users/911625/screenshots/11113787/woman.gif)
 <h1 align="center">Hi 👋, I'm Sneha Chakurkar.</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img align="right" alt="Coding" width="400" scr="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
+<img align="right" alt="Coding" width="400" scr="ages.squarespace-cdn.com/content/v1/53d677d2e4b090e9cd5361cf/1605321146624-39YFN0P0PL86QCX7W0EG/3c00f6105775659.5f84899401909.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehachakurkar22&label=Profile%20views&color=0e75b6&style=flat" alt="snehachakurkar22" /> </p>
 
