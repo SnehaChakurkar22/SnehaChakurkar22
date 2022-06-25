@@ -1,4 +1,4 @@
-[![Masterhead](https://cdn.dribbble.com/users/911625/screenshots/11113787/woman.gif)]
+![Masterhead](https://cdn.dribbble.com/users/911625/screenshots/11113787/woman.gif)
 <h1 align="center">Hi 👋, I'm Sneha Chakurkar.</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 <img align="right" alt="Coding" width="500" scr="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"
